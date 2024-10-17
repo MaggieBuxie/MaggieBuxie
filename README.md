@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MaggieBuxie
 - 👀 I’m interested in ...code
-- 🌱 I’m currently learning ...Software Engineering
-- 💞️ I’m looking to collaborate on ...all projects
+- 🌱 I’m a.Software Engineer 
+- 💞️ I’m looking to collaborate on ...all projects 
 - 📫 How to reach me ...right here!
 - 😄 : ...
 - ⚡ Fun fact: ...
