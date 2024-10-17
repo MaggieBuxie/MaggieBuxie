@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @MaggieBuxie
-- 👀 I’m interested in ...code
-- 🌱 I’m a.Software Engineer 
-- 💞️ I’m looking to collaborate on ...all projects 
-- 📫 How to reach me ...right here!
-- 😄 : ...
-- ⚡ Fun fact: ...
+# Hi, I'm @MaggieBuxie 👋
 
-<!---
-MaggieBuxie/MaggieBuxie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 I'm interested in coding, software development, and collaboration.
+
+🌱 I'm a Software Engineer with a passion for building innovative solutions.
+
+💞️ I'm looking to collaborate on projects that involve [insert specific technologies or areas of interest]. If you have an idea for a project, I'd love to hear about it!
+
+📫 How to reach me: right here on GitHub, or through my personal website [insert link].
+
+😄 I'm excited to connect with others who share my passion for coding and software development.
+
+⚡ Fun fact: I enjoy nature and travel
+
+Let's build something amazing together! 💻
